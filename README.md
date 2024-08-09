@@ -4,6 +4,8 @@
 
 _Create and run a GitHub Actions workflow._
 
+This is the change made in Step 5 of the lesson.
+
 </header>
 
 ## Finish
